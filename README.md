@@ -17,7 +17,7 @@ Xcode
 
 - Download Expo go app in the app store
 - Clone repo `https://github.com/Alexoid1/Meals-App.git`
-- cd Goals-list
+- cd Meals-App
 - npm install
 - npm start
 
