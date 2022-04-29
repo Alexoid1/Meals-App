@@ -1,10 +1,10 @@
 # Meals App
 Meals App is a React Native app where you can find different meals and the cooking steps for each meal, also you can select your favorites meal and store it.
 
-<img src="./assets/images/screen.png" width="200"/> <img src="./assets/images/screen1.png" width="200"/>
-<img src="./assets/images/screen.png" width="200"/> <img src="./assets/images/screen2.png" width="200"/>
-<img src="./assets/images/screen.png" width="200"/> <img src="./assets/images/screen3.png" width="200"/>
-<img src="./assets/images/screen.png" width="200"/> <img src="./assets/images/screen4.png" width="200"/>
+<img src="./assets/images/Screen1.png" width="200"/> <img src="./assets/images/screen1.png" width="200"/>
+<img src="./assets/images/Screen2.png" width="200"/> <img src="./assets/images/screen2.png" width="200"/>
+<img src="./assets/images/Screen3.png" width="200"/> <img src="./assets/images/screen3.png" width="200"/>
+<img src="./assets/images/Screen4.png" width="200"/> <img src="./assets/images/screen4.png" width="200"/>
 
 
 ## Built With
