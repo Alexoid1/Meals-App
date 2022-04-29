@@ -34,4 +34,4 @@ Xcode
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Alexoid1/Meals-App.git).
+Feel free to check the [issues page](https://github.com/Alexoid1/Meals-App/issues.git).
